@@ -1,4 +1,4 @@
-# tayland
+# tayhland
 ## Hi, I'm Lawani Samson 👋
 
 I'm an aspiring Data Analyst interested in turning data into meaningful insights that support better decision-making.
